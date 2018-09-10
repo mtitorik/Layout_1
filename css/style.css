@@ -1,0 +1,123 @@
+.header{
+			/*border: 2px solid #A3403B;*/
+			min-height: 50px;
+			margin-bottom: 5px;
+			overflow: hidden;
+			background-color: #A7443F;
+		}
+.logo{
+			border: 1px solid black;
+			float: left;
+			width: 50px;
+			text-align: center;
+			margin: 15px;
+	}
+.menu{
+			
+			overflow: hidden;
+	}
+.sec1{
+			/*border: 1px solid #5A5051;*/
+			float: right;
+			width: 5%;
+			text-align: center;
+			margin: 15px;
+	}
+.banner{
+			/*border: 2px solid #A3403B;*/
+			min-height: 350px;
+			margin-bottom: 5px;
+			overflow: hidden;
+			background-color: #A7BBBA;
+
+	}
+.sec2{
+			/*border: 1px solid #5A5051;*/
+			width: 23%;
+			text-align: center;
+			margin: 125px auto;
+
+	}
+.sec3{
+			/*border: 1px solid #5A5051;*/
+			width: 15%;
+			text-align: center;
+			margin: -120px auto;
+	}
+.services{
+			/*border: 2px solid #A3403B;*/
+			min-height: 250px;
+			margin-top: 10px;
+			overflow: hidden;
+			background-color: #A7BBBA;
+
+	}
+.service1{
+			/*border: 1px solid #5A5051;*/
+			float: left;
+			min-height: 100px;
+			overflow: hidden;
+			width: 15%;
+			margin-top: 10px;
+			margin-bottom: 10px;
+			margin-left:8%;
+			background-color: #DED9D6;
+	}
+.icon{
+			border: 1px solid #5A5051;
+			min-height: 55px;
+			width: 75%;
+			margin: 5px auto;
+			text-align: center;
+			overflow: hidden;
+	}
+.icon_logo{
+			border: 1px solid #5A5051;
+			min-height: 30px;
+			width: 30%;
+			float: left;
+			margin: 12px 11px;
+			text-align: center;
+	}
+.icon_name{
+			border: 1px solid #5A5051;
+			min-height: 30px;
+			width: 50%;
+			float: left;
+			margin: 12px 4px;
+			text-align: center;
+	}
+
+.discription{
+			/*border: 1px solid #5A5051;*/
+			min-height: 110px;
+			width: 80%;
+			margin: 5px auto;
+			text-align: center;
+	}
+.example{
+			/*border: 1px solid #5A5051;*/
+			min-height: 50px;
+			width: 60%;
+			margin: 5px auto;
+			text-align: center;
+			margin-bottom: 5px;
+	}
+.footer{
+			/*border: 2px solid #A3403B;*/
+			min-height: 80px;
+			margin-top: 10px;
+			overflow: hidden;
+			background-color: #A9403D;
+
+	}
+.Contact{
+		border: 1px solid black;	
+		width: 15%;
+		min-height: 50px;
+		margin:15px 45px;
+		float: left;
+	}
+.a{
+	border: 1px solid black;
+}
